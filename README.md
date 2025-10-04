@@ -1,5 +1,3 @@
-# commandsCookBook
-
 # Useful Commands
 
 A collection of useful CLI commands  
